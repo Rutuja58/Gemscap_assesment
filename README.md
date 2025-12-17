@@ -28,3 +28,14 @@ This project is a Quantitative Analytics Dashboard built to ingest real-time tic
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/22b29e49-098c-4f70-aca2-2ae4fe26fbb3" />
 <img width="1900" height="968" alt="image" src="https://github.com/user-attachments/assets/a892bfa3-f594-412f-8441-79578d124868" />
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/9c5b61c2-a557-4cf6-a13d-1247b7e78222" />
+
+## AI Usage / ChatGPT Transparency
+
+- The core implementation, logic, and development of the Quant Analytics Dashboard were fully done by me.  
+- ChatGPT was used **only as a coding and debugging assistant** in a few instances to:
+  - Suggest approaches for WebSocket ingestion and real-time tick handling.  
+  - Provide sample code snippets for analytics functions (e.g., z-score, rolling correlation).  
+  - Assist in layout and structuring of Streamlit dashboard widgets for better interactivity.  
+- All critical design decisions, analytics computations, and frontend-backend integration were done independently.  
+- Prompts used with ChatGPT were limited to guidance on syntax, best practices, and small code templates; no entire sections of code were copied verbatim.
+
